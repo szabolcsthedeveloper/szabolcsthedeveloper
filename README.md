@@ -42,13 +42,6 @@ Oen to collaborating on interesting and innovative projects.</i>
 <details>
 
 
-<style>
-  .flex-container {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
 <a href="https://github.com/szabolcsthedeveloper">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szabolcsthedeveloper&theme=transparent" />
 </a>
