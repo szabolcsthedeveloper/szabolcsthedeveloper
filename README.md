@@ -27,7 +27,7 @@ Oen to collaborating on interesting and innovative projects.</i>
 
 
 
-<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity" alt="Solidity">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" alt="Rust">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/web3.js-black?style=for-the-badge&logo=web3.js" alt="Web3.js">  </a>  </div>
+<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity" alt="Solidity">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" alt="Rust">  </a>  </div>
 
 
 
