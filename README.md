@@ -1,24 +1,102 @@
-<h1 align="center">Hi 👋, I'm Szabolcs</h1>
-<h3 align="center">Passionate about web3 & blockchain. Skilled in JavaScript, React, Svelte, Node.js. Experienced in UI/UX, web2 & web3 projects. Open to new opportunities.</h3>
+<h1  align="center">Hi, guys! <img  src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d"  width="28px"  alt="👋"></h1>
 
-<p align="left"> <a href="https://twitter.com/0xsteven_" target="blank"><img src="https://img.shields.io/twitter/follow/0xsteven_?logo=twitter&style=for-the-badge" alt="0xsteven_" /></a> </p>
+ 
+<p  align="center">
 
-- 🛠️ Working on [Zylar](https://www.zylar.xyz/)
+<i>
 
-- 🌱 I’m currently learning **Solidity**
+<h3 align="center">I'm Szabolcs.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xsteven_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xsteven_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/szabolcsthedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szabolcsthedeveloper" height="30" width="40" /></a>
-<a href="https://instagram.com/szxblcsnxgy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szxblcsnxgy" height="30" width="40" /></a>
+<i align="center">Currently learning to walk in Web3 Development without falling on my bottom.
+Oen to collaborating on interesting and innovative projects.</i>
+<br>
+
+
+  
+
+### WEB2
+
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/szabolcsthedeveloper)
+
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/szabolcsthedeveloper)
+
+
+### Technologies & Frameworks
+
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/szabolcsthedeveloper)
+
+[![Node.JS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js)](https://github.com/szabolcsthedeveloper)
+
+[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/szabolcsthedeveloper)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/szabolcsthedeveloper)
+
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/szabolcsthedeveloper)
+
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/szabolcsthedeveloper)  
+
+
+### WEB3
+
+
+[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/szabolcsthedeveloper)
+
+[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)](https://github.com/szabolcsthedeveloper)
+
+[![Web3.js)](https://img.shields.io/badge/web3.js-black?style=for-the-badge&logo=web3.js)](https://github.com/szabolcsthedeveloper)
+
+
+
+  
+### Technologies & Frameworks
+
+[![Web3.js)](https://img.shields.io/badge/web3.js-black?style=for-the-badge&logo=web3.js)](https://github.com/szabolcsthedeveloper)
+
+[![Hardhat)](https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=Hardhat)](https://github.com/szabolcsthedeveloper)
+
+[![Moralis)](https://img.shields.io/badge/Moralis-black?style=for-the-badge&logo=Moralis)](https://github.com/szabolcsthedeveloper)
+
+
+
+
+
+
+  
+
+<details>
+
+<p  align="center">
+
+<a  href="https://github.com/szabolcsthedeveloper">
+
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szabolcsthedeveloper&theme=transparent" />
+
+</a>
+
+<a  href="https://github.com/szabolcsthedeveloper">
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=szabolcsthedeveloper&hide_border=true&card_width=338&theme=transparent" />
+
+</a>
+
+<a  href="https://github.com/szabolcsthedeveloper">
+
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=szabolcsthedeveloper&theme=transparent" />
+
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szabolcsthedeveloper&show_icons=true&locale=en&layout=compact" alt="szabolcsthedeveloper" /></p>
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szabolcsthedeveloper&show_icons=true&locale=en" alt="szabolcsthedeveloper" /></p>
+<p  align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szabolcsthedeveloper&" alt="szabolcsthedeveloper" /></p>
+<a  href="https://github.com/wervlad">
+
+<img  src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+
+</a>
+
+</p>
