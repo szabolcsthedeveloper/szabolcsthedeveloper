@@ -21,6 +21,7 @@ Oen to collaborating on interesting and innovative projects.</i>
 
 <div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" alt="Node.JS">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="Typescript">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">  </a>  <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">  </a>  </div>
 
+<br>
 
 ### WEB3
 
@@ -36,20 +37,23 @@ Oen to collaborating on interesting and innovative projects.</i>
 
 <div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/web3.js-black?style=for-the-badge&logo=web3.js" alt="Web3.js">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=Hardhat" alt="Hardhat">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Moralis-black?style=for-the-badge&logo=Moralis" alt="Moralis">  </a>  </div>
 
-
+<br>
 
 <details>
 
-<p  align="center">
 
-<a   href="https://github.com/szabolcsthedeveloper">
+<style>
+  .flex-container {
+    display: flex;
+    justify-content: center;
+  }
+</style>
 
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szabolcsthedeveloper&theme=transparent" />
-
+<a href="https://github.com/szabolcsthedeveloper">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szabolcsthedeveloper&theme=transparent" />
 </a>
 
-
-<div style="display: flex;">
+<div class="flex-container">
   <a href="https://github.com/szabolcsthedeveloper" style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=szabolcsthedeveloper&hide_border=true&card_width=338&theme=transparent" />
   </a>
@@ -57,6 +61,7 @@ Oen to collaborating on interesting and innovative projects.</i>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=szabolcsthedeveloper&theme=transparent" />
   </a>
 </div>
+
 
 
 </details>
