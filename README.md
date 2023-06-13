@@ -2,13 +2,13 @@
 
 
 <i align="center">Currently learning to walk in Web3 Development without falling on my bottom.
-Open to collaborating on interesting and innovative projects.</i>
+Oen to collaborating on interesting and innovative projects.</i>
 <br>
 
 
   
 
-### WEB2
+### Skills
 
 <div class="container">  
 <a href="https://github.com/szabolcsthedeveloper">  
@@ -19,7 +19,13 @@ Open to collaborating on interesting and innovative projects.</i>
 ### Technologies & Frameworks
 
 
-<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" alt="Node.JS">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="Typescript">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">  </a>  <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">  </a>  </div>
+<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" alt="Node.JS">  </a>  
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular" alt="Angular">  </a>  
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js" alt="Vue.js">  </a>  
+ <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="Typescript">  </a>  
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  
+
+<a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">  </a>  <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" alt="sass">  </a> </div>
 
 <br>
 
