@@ -1,4 +1,4 @@
-<h1  align="center">Hi, guys! <img  src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d"  width="28px"  alt="👋"> I'm Szabolcs</h1>
+<h1  align="center">Hi! <img  src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d"  width="28px"  alt="👋"> I'm Szabolcs</h1>
 
 
 <i align="center">Currently learning to walk in Web3 Development without falling on my bottom.
