@@ -69,9 +69,9 @@ Oen to collaborating on interesting and innovative projects.</i>
 
 <p  align="center">
 
-<a  href="https://github.com/wervlad">
+<a  href="https://github.com/szabolcsthedeveloper">
 
-<img  src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+<img  src="https://komarev.com/ghpvc/?username=szabolcsthedeveloper&color=blue&style=flat)" />
 
 </a>
 
