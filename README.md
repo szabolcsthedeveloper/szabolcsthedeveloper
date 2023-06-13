@@ -2,7 +2,7 @@
 
 
 <i align="center">Currently learning to walk in Web3 Development without falling on my bottom.
-Oen to collaborating on interesting and innovative projects.</i>
+Open to collaborating on interesting and innovative projects.</i>
 <br>
 
 
