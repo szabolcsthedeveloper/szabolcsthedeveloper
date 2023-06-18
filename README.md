@@ -65,16 +65,3 @@ Open to collaborating on interesting and innovative projects.</i>
 
 </details>
 
-  
-
-<p  align="center">
-
-<a  href="https://github.com/szabolcsthedeveloper">
-
-<img  src="https://komarev.com/ghpvc/?username=szabolcsthedeveloper&color=blue&style=flat)" />
-
-</a>
-
-</p>
-
-
