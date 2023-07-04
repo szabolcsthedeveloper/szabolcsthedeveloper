@@ -1,7 +1,7 @@
 <h1  align="center">Hi! <img  src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d"  width="28px"  alt="👋"> I'm Szabolcs</h1>
 
 
-<i align="center">Currently learning to walk in Web3 Development without falling on my bottom.
+<i align="center">JavaScripting via React. Currently learning to walk in Web3 Development without falling on my bottom.
 Open to collaborating on interesting and innovative projects.</i>
 <br>
 
@@ -32,33 +32,21 @@ Open to collaborating on interesting and innovative projects.</i>
 #### Markup Technologies
 <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">  </a>  <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" alt="sass">  </a> <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss" alt="tailwind">  </a> 
 
-#### Data Visualization
+#### Data Visualization & Database
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js" alt="d3.js">  </a> 
-
-#### Database
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  </div> 
-
-<br>
 
 
 #### WEB3 Skills
 
-
-
-<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity" alt="Solidity">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" alt="Rust">  </a>  </div>
-
-
-
-  
-#### Technologies & Frameworks
-
+<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity" alt="Solidity">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust" alt="Rust">  </a>  </div> 
 
 <div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/web3.js-black?style=for-the-badge&logo=web3.js" alt="Web3.js">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=Hardhat" alt="Hardhat">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Moralis-black?style=for-the-badge&logo=Moralis" alt="Moralis">  </a>  </div>
 
 <br>
 
 
-
+<details>
 
 <a href="https://github.com/szabolcsthedeveloper">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szabolcsthedeveloper&theme=transparent" />
@@ -67,6 +55,7 @@ Open to collaborating on interesting and innovative projects.</i>
 
 </div>
 
+</details>
 
 
 
