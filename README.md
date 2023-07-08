@@ -1,4 +1,4 @@
-<h1  align="center">Hi! <img  src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d"  width="28px"  alt="👋"> I'm Szabolcs</h1>
+<h1  align="center">Hi! <img  src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif"  width="28px"  alt="👋"> I'm Szabolcs</h1>
 
 
 <i align="center">JavaScripting via React. Currently learning to walk in Web3 Development without falling on my bottom.
@@ -20,7 +20,7 @@ Open to collaborating on interesting and innovative projects.</i>
 #### Frontend
 
 
-<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">  </a>  
+<div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js" alt="Next.js">  </a>  
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular" alt="Angular">  </a>  
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js" alt="Vue.js">  </a>
 
