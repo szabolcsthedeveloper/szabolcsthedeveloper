@@ -36,6 +36,12 @@ Open to collaborating on interesting and innovative projects.</i>
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js" alt="d3.js">  </a> 
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  </div> 
 
+#### Cloud Solutions
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon" alt="d3.js">  </a> 
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="d3.js">  </a> 
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes" alt="MongoDB">  </a>  </div> 
+
+
 
 #### WEB3 Skills
 
