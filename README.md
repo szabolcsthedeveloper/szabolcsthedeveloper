@@ -33,7 +33,9 @@ Open to collaborating on interesting and innovative projects.</i>
 
 #### Data Visualization & Database
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js" alt="d3.js">  </a> 
-<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a>  </div> 
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB">  </a> 
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose" alt="MongoDB">  </a>  </div> 
+
 
 #### Cloud Solutions
 <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon" alt="d3.js">  </a> 
