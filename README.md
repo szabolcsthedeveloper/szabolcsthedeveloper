@@ -25,7 +25,7 @@ Open to collaborating on interesting and innovative projects.</i>
 
 #### Backend
 
-<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" alt="Node.JS">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="express.js">  </a>  
+<a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" alt="Node.JS">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="express.js">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman" alt="Node.JS">  </a>  <a href="https://github.com/szabolcsthedeveloper"> 
 
 #### Markup Technologies
 <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5">  </a>  <a href="https://hub.docker.com/u/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" alt="sass">  </a> <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss" alt="tailwind">  </a> 
@@ -63,3 +63,4 @@ Open to collaborating on interesting and innovative projects.</i>
 </div>
 
 </details>
+
