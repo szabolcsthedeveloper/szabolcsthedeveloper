@@ -7,7 +7,7 @@
 <br>
 <i> Open to collaborating on interesting and innovative projects.</i>
 <br>
-</center
+</center>
 
 
   
