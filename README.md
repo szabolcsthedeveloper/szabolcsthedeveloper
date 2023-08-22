@@ -48,6 +48,6 @@
 <div class="container">  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/web3.js-black?style=for-the-badge&logo=web3.js" alt="Web3.js">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=Hardhat" alt="Hardhat">  </a>  <a href="https://github.com/szabolcsthedeveloper">  <img src="https://img.shields.io/badge/Moralis-black?style=for-the-badge&logo=Moralis" alt="Moralis">  </a>  </div>
 
 <br>
- ✨<i>Open to collaborating on interesting and innovative projects.</i>🚀
+ 🚀<i>Open to collaborating on interesting and innovative projects.</i>
 <br>
 
