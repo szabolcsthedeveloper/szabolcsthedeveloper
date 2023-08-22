@@ -5,8 +5,6 @@
 <br>
 🦊<strong>Currently navigating the realm of Web3 Development determined not to stumble along the way.</strong>
 
-<br>
-
 #### Programming Languages
 
 <div class="container">  
