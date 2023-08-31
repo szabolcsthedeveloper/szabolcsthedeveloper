@@ -3,6 +3,8 @@
 ⚛️ **Channeling my creativity through React's dynamic canvas.**  
 🦊 **Currently navigating the realm of Web3 Development determined not to stumble along the way.**
 
+---
+
 #### Programming Languages
 <div class="container">
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
@@ -53,6 +55,8 @@
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/web3.js-black?style=for-the-badge&logo=web3.js" alt="Web3.js"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=Hardhat" alt="Hardhat"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/Moralis-black?style=for-the-badge&logo=Moralis" alt="Moralis"></a>
-</div>
+</div> 
+
+---
 
 🚀 _Open to collaborating on interesting and innovative projects._
