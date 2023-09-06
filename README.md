@@ -16,6 +16,7 @@
 <div class="container">
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js" alt="Next.js"></a>
+  <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux" alt="redux"></a>
 </div>
 
 #### Backend
