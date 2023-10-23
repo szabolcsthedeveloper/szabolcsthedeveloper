@@ -17,7 +17,6 @@
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js" alt="Next.js"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux" alt="redux"></a>
-  <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify" alt="redux"></a>
 </div>
 
 #### Backend
@@ -25,6 +24,7 @@
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" alt="Node.JS"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="express.js"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman" alt="Postman"></a>
+  <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify" alt="redux"></a>
 </div>
 
 #### Markup Technologies
