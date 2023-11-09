@@ -33,7 +33,7 @@
   <a href="https://hub.docker.com/u/szabolcsthedeveloper"><img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" alt="sass"></a>
   <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss" alt="tailwind"></a>
-  <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap" alt="bootstrap"></a>
+  <a href="https://github.com/szabolcsthedeveloper"><img src="https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui" alt="bootstrap"></a>
 </div>
 
 #### Data Visualization & Database
