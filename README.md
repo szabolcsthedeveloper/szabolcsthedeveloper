@@ -62,4 +62,4 @@
 
 ---
 
-_ Can't share some of my most interesting projects in here due to NDA_
+_Can't share some of my most interesting projects in here due to NDA_
